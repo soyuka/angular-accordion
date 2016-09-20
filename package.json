@@ -1,0 +1,22 @@
+{
+  "name": "@soyuka/angular-accordion",
+  "version": "1.0.0",
+  "description": "A simple and light weight angular directive for adding accordion UI element.",
+  "main": "js/ang-accordion.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyuka/angular-accordion.git"
+  },
+  "author": "Muhammad Usman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soyuka/angular-accordion/issues"
+  },
+  "homepage": "https://github.com/soyuka/angular-accordion#readme"
+}
